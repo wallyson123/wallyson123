@@ -13,4 +13,12 @@
 <img align ="center" alt="html5 " src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align ="center" alt="html5 " src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align ="center" alt="html5 " src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
+</div><br/>
+
+Por mais que meu mundo seja escuro você tem a incapacidade de ilumina-lo, então você nunca irá me enxergar mas eu sempre o verei, saberei o que você faz mesmo quando pensar estar sozinho estarei lhe observando de onde você nunca me verá.
+
+### Últimos trabalhos:
+- [Search Filter com PopUp para pesquisa de aparelhos Celulares ](https://cea-ficha.netlify.app)<br/>
+- [Minha pagina de apresentação ](https://walissonsoares.netlify.app)<br/>
+- [Entre outros Repositórios no git](https://github.com/wallyson123)<br/>
+- E-mail para contato wallyson2013@hotmail.com - Disponível
