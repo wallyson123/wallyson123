@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://walissonsoares.netlify.app)
 
 ![Wálisson GitHub stats](https://github-readme-stats.vercel.app/api?username=wallyson123&show_icons=true&theme=highcontrast)
-![Wálisson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson123&layout=compact&langs_count=7&theme=dark)
+![Wálisson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson123&layout=compact&langs_count=7&theme=highcontrast)
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson123&layout=compact&langs_count=7&theme=dark"/> -->
 
 
