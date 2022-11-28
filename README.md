@@ -29,12 +29,10 @@ Por mais que meu mundo seja escuro você tem a incapacidade de ilumina-lo, entã
   Últimos <strong>Trabalhos</strong> in tech!<br />
 </p>
 
-<p align="center">
 - [Search Filter com PopUp para pesquisa de aparelhos Celulares ](https://cea-ficha.netlify.app)<br/>
 - [Minha pagina de apresentação ](https://walissonsoares.netlify.app)<br/>
 - [Entre outros Repositórios no git](https://github.com/wallyson123)<br/>
 - E-mail para contato wallyson2013@hotmail.com - Disponível
-</p>
 
 <p align="center">
   💌 Text me: ⤵️
