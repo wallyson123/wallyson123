@@ -1,6 +1,3 @@
-<span align="center">
-### Olá sou Wálisson Soares 🧓
-</span>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walysonsoaress/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wálisson-soares-872894127/)
@@ -33,18 +30,15 @@ Por mais que meu mundo seja escuro você tem a incapacidade de ilumina-lo, entã
 
 ##  Hellooo Helloo World! 👋 
   
-  ##  Lista Exercicios Thomas 01 - Updated All In One ! 👋 
-  ##  Lista Exercicios Thomas 02 - Updated All In One ! 👋 
-  ##  Lista Exercicios Thomas 03 - Updated All In One ! 👋 
+### Olá sou Wálisson Soares 🧓
 
 </span>
 
 <p align="center">
-  I'm an <strong>experience</strong> in tech!<br />
+  Últimos <strong>Trabalhos</strong> in tech!<br />
 </p>
 
 <p align="center">
-  👩‍### Últimos trabalhos:
 - [Search Filter com PopUp para pesquisa de aparelhos Celulares ](https://cea-ficha.netlify.app)<br/>
 - [Minha pagina de apresentação ](https://walissonsoares.netlify.app)<br/>
 - [Entre outros Repositórios no git](https://github.com/wallyson123)<br/>
