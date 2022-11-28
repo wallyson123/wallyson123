@@ -7,6 +7,9 @@
 
 ![Wálisson GitHub stats](https://github-readme-stats.vercel.app/api?username=wallyson123&show_icons=true&theme=highcontrast)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson123&layout=compact&langs_count=7&theme=dark"/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wallyson123&theme=darkhub)](https://github.com/wallyson123/github-profile-trophy)
 ## Tecnologias que mais uso
 
 <div style="display: inline_block" ><br/>
