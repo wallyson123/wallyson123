@@ -8,6 +8,10 @@
 ![Wálisson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson123&layout=compact&langs_count=7&theme=highcontrast)
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyson123&layout=compact&langs_count=7&theme=dark"/> -->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wallyson123/count.svg" />
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wallyson123&theme=darkhub)](https://github.com/wallyson123/github-profile-trophy)
 <span align="center">
